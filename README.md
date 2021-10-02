@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @potheadwastaken-byArt
-- 👀 I’m interested in coding, playing chess and siding science
+- 👀 I’m interested in coding, playing chess and studying science
 - 🌱 I’m currently in school.
 - I'm trying to learn Java and python programming languages 
 
