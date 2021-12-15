@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @potheadwastaken-byArt
+- 👋 Hi, I’m @CreativeChamp
 - 👀 I’m interested in coding, playing chess and studying science
 - 🌱 I’m currently in school.
 - I'm trying to learn Java and python programming languages 
